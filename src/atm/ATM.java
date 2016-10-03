@@ -1,7 +1,16 @@
 
 package atm;
 
+/*
+Class Assignment CMIS 242
+Author: Marcus Edwards
+September 2016
 
+Simple ATM application functionality. Two sample account objects used.
+
+Dependencies: Account.java, InsufficientFundsException.java
+
+*/
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
